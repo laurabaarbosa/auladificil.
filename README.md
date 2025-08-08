@@ -14,3 +14,6 @@ Adiciona o arquivo ao repositorio. Registra um arquivo junto ao git para que, fu
   seja registrado junto ao Github (online) depois. Ou seja, eu posso adicionar
   um ou mais arquivos (git add - o que significa que fiz um conjunto de alterações que fazem sentido) e guardarei
   isso no meu repositorio
+
+  ### git push
+  envia as alterações para o github
